@@ -75,3 +75,17 @@ img {
     margin-right: auto;
     width: 50%;
   }
+
+  hr {
+    height:3px;
+    color:rgb(141, 141, 141);
+    background-color:rgb(0, 0, 0);
+  }
+
+  ul {
+    text-align: center;
+    color: black;
+    list-style-type: circle;
+    margin: 0;
+    padding: 0;
+  }
