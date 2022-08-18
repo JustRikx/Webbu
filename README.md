@@ -1,2 +1,3 @@
 # Webbu
-I like it.
+
+MySkin web application
