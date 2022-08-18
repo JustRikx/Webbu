@@ -20,6 +20,11 @@
     font-variant: normal; 
     font-weight: 700; 
     line-height: 26.4px; 
+    
+  }
+
+  #outer {
+    position: fixed;
   }
 
   h2 {
@@ -70,6 +75,25 @@ img {
     opacity: 0.8;
     width: auto;
     align-content: center;
+  }
+
+  /* Style the header */
+.header {
+    padding: 20px 0px;
+    background: #555;
+    color: #f1f1f1;
+  }
+  
+  /* The sticky class is added to the header with JS when it reaches its scroll position */
+  .sticky {
+    position: fixed;
+    top: 40;
+    width: 100%
+  }
+  
+  /* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+  .sticky + .content {
+    padding-top: 402px;
   }
 
   .center {
