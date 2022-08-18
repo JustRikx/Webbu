@@ -14,8 +14,7 @@
   h1 {
     color: black;
     text-align: center;
-
-    font-family: Arial, Helvetica, sans-serif; 
+    font-family: 'Varela Round', sans-serif;
     font-size: 50px; 
     font-style: normal; 
     font-variant: normal; 
@@ -26,7 +25,7 @@
   h2 {
     color: black;
     text-align: center;
-    font-family: Helvetica; 
+    font-family: 'Varela Round', sans-serif;
     font-size: 24px; 
     font-style: normal; 
     font-variant: normal; 
@@ -38,8 +37,7 @@
 h3 { 
     color: black;
     text-align: center;
-
-    font-family: Oswald; 
+    font-family: 'Varela Round', sans-serif;
     font-size: 14px; 
     font-style: normal; 
     font-variant: normal; 
@@ -50,8 +48,7 @@ h3 {
 p { 
     color: black;
     text-align: center;
-
-    font-family: Oswald;
+    font-family: 'Varela Round', sans-serif;
      font-size: 14px; 
      font-style: normal; 
      font-variant: normal; 
@@ -60,7 +57,7 @@ p {
 } 
 
 blockquote { 
-    font-family: Oswald; 
+    font-family: 'Varela Round', sans-serif;
     font-size: 21px; 
     font-style: normal; 
     font-variant: normal; 
